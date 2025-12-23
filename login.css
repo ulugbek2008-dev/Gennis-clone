@@ -1,5 +1,24 @@
-body{
+body {
     background-color: rgb(0, 204, 255);
     width: 100%;
     height: 100%;
+    
+}
+.rasm {
+    margin-top: 40px;
+    text-align: center;
+}
+
+
+.email {
+    width: 400px;
+    height: 400px;
+    background-color: aliceblue;
+    border-radius: 10%;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.Username {
+    width: 40px;
 }
